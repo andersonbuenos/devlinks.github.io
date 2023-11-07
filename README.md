@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://devlinks-github-1hja33gev-anderson-buenos-projects.vercel.app/)
+- [Acesse o projeto finalizado, online](https://devlinks-github-8qmtostro-anderson-buenos-projects.vercel.app/)
 
 ## 🔖 Layout
 
